@@ -1,0 +1,4 @@
+SimpleTheme-Skeleton
+====================
+
+SimpleThemes Skeleton
